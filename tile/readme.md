@@ -10,7 +10,7 @@ Here’s a quick, actionable shortlist of solid places and specific porcelain mo
 
 Below are places with good stock and pricing, plus specific tiles that work well as border or rug frames, or as a patterned field. You can mix & match these (black/white, art‑deco vibes, square or octagon-ish feels) without needing a custom order.
 
-### 1) Strong value pattern with classic look
+### 1) Pinwheel / Spiral: Strong value pattern with classic look
 
 **Why this is a great first option**
 
@@ -34,7 +34,7 @@ Below are places with good stock and pricing, plus specific tiles that work well
 
 ---
 
-### 2) Classic, slightly dressier woven look for a border or field
+### 2) Basketweave: Classic, slightly dressier woven look for a border or field
 
 **Why it’s worth a look**
 
@@ -57,7 +57,7 @@ Below are places with good stock and pricing, plus specific tiles that work well
 
 ---
 
-### 3) A true border piece for clean, framed rugs or outlines
+### 3) Greek Key: A true border piece for clean, framed rugs or outlines
 
 **Why this is the best ready‑made border**
 
@@ -80,7 +80,7 @@ Below are places with good stock and pricing, plus specific tiles that work well
 
 ---
 
-### 4) Budget‑friendly classic field with strong visual contrast
+### 4) Betero Blanco: Budget‑friendly classic field with strong visual contrast
 
 **Why this is a smart pick**
 
@@ -103,7 +103,7 @@ Below are places with good stock and pricing, plus specific tiles that work well
 
 ---
 
-### 5) Eye‑catching art‑deco / star motif that reads designer
+### 5) Stella Nero: Eye‑catching art‑deco / star motif that reads designer
 
 **Why it stands out**
 
@@ -126,7 +126,7 @@ Below are places with good stock and pricing, plus specific tiles that work well
 
 ---
 
-### 6) More decorative, almost custom‑looking pattern from a specialty tile source
+### 6) Evoque Carthusian: More decorative, almost custom‑looking pattern from a specialty tile source
 
 **Why include it**
 
