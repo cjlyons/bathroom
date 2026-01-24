@@ -2,7 +2,7 @@
 
 Here’s a quick, actionable shortlist of solid places and specific porcelain mosaic pieces you can actually buy today—good for borders, rugs, or patterned floors without going full-custom like Restoration Tile. Each pick is a real, in‑stock‑ish product you can show your wife with an image and link, plus a few notes on when it makes sense.
 
-[Tile Lookbook](./merola_lookbook.html)
+[Tile Lookbook](./merola_lookbook.md)
 
 ---
 
