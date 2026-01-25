@@ -1,5 +1,7 @@
 # Bathroom Tile
 
+[back](../README.md)
+
 Here’s a quick, actionable shortlist of solid places and specific porcelain mosaic pieces you can actually buy today—good for borders, rugs, or patterned floors without going full-custom like Restoration Tile. Each pick is a real, in‑stock‑ish product you can show your wife with an image and link, plus a few notes on when it makes sense.
 
 [Tile Lookbook](./merola_lookbook.md)
@@ -179,3 +181,4 @@ This gives you a clean, easily printed or shared collection of real product link
 [2]: https://somertile.com/ProductDetail/FCD10EVC_Evoque-Carthusian-934x934-Porcelain-Fw-Tile#:~:text=Availability%3A%2020720%2FEA%0A%0A%0A%0A%20%20,USE%3A%201%3DYes%200%3DNo%20%201 "
 Evoque Arte Carthusian 9-3/4\"x9-3/4\" Porcelain F/W Tile
 "
+
