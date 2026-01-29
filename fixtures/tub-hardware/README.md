@@ -58,11 +58,11 @@ Moen Weymouth in Brushed Gold:
 
 Newport Brass Victoria in Satin Brass PVD:
 
-- [Thermostatic Rough-In (1-743)](https://www.faucet.com/newport-brass-1-743/p406999)
-- [Thermostatic Trim Victoria (3-1763TR/04)](https://www.faucet.com/newport-brass-3-1763tr/p382433)
-- [Multi-Function Shower Head (2144/04)](https://www.faucet.com/newport-brass-2144/p409254)
-- [Multi-Function Slide Bar Handshower (280G)](https://www.faucet.com/newport-brass-280g/p409332)
-- [Victoria Tub Spout (3-667/04)](https://www.faucet.com/newport-brass-3-667/p409063)
+- [Thermostatic Rough-In (1-743)](https://www.fergusonhome.com/newport-brass-1-743/s1206537)
+- [Thermostatic Trim Victoria (3-1763TR/04)](https://www.fergusonhome.com/newport-brass-3-1763tr/s1519691)
+- [Multi-Function Shower Head (2144/04)](https://www.fergusonhome.com/newport-brass-2144/s122244)
+- [Multi-Function Slide Bar Handshower (280E)](https://www.fergusonhome.com/newport-brass-280e/s147719)
+- [Victoria Tub Spout (3-667/04)](https://www.newportbrass.com/product/victoria/satin-brass-pvd/3-667/)
 
 Rohl Perrin & Rowe in Old English Style:
 
