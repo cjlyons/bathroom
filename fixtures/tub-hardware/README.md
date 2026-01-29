@@ -62,14 +62,14 @@ Newport Brass Victoria in Satin Brass PVD:
 - [Thermostatic Trim Victoria (3-1763TR/04)](https://www.fergusonhome.com/newport-brass-3-1763tr/s1519691)
 - [Multi-Function Shower Head (2144/04)](https://www.fergusonhome.com/newport-brass-2144/s122244)
 - [Multi-Function Slide Bar Handshower (280E)](https://www.fergusonhome.com/newport-brass-280e/s147719)
-- [Victoria Tub Spout (3-667/04)](https://www.newportbrass.com/product/victoria/satin-brass-pvd/3-667/)
+- [Victoria Tub Spout (3-667/04)](https://frankwebb.com/products/newport-brass-3-667-04-victoria-tub-spout-sc30054-1032405?variant=39858409668772)
 
 Rohl Perrin & Rowe in Old English Style:
 
-- [Thermostatic Rough-In Valve (R1055BD)](https://www.faucet.com/rohl-r1055bd/p399244)
-- [Georgian Era Thermostatic Trim](https://www.faucet.com/rohl-u-tga45w1lsp/p399191)
-- [Multi-Function Wall Shower Head (U.500)](https://www.faucet.com/rohl-u-500/p398942)
-- [Holborn 6-Function Handshower (U.5810)](https://www.faucet.com/rohl-u-5810/p399012)
-- [24in Slide Bar (U.5540)](https://www.faucet.com/rohl-u-5540/p398973)
-- [Wall Outlet (U.5546)](https://www.faucet.com/rohl-u-5546/p398981)
-- [Edwardian Tub Spout (U.3785)](https://www.faucet.com/rohl-u-3785/p398955)
+- [Thermostatic Rough-In Valve (R1055BD)](https://www.fergusonhome.com/rohl-r1055bd/s1508158)
+- [Georgian Era Thermostatic Trim](https://www.fergusonhome.com/perrin-and-rowe-u-5786x-to/s1790937)
+- [Multi-Function Wall Shower Head (U.500)](https://www.fergusonhome.com/perrin-and-rowe-u-5800/s1790938)
+- [Holborn 6-Function Handshower (U.5810)](https://www.fergusonhome.com/perrin-and-rowe-u-5810/s1790939)
+- [24in Slide Bar (U.5540)](https://www.fergusonhome.com/product/summary/1790917)
+- [Wall Outlet (U.5546)](https://www.fergusonhome.com/perrin-and-rowe-u-5546/s1790919)
+- [Edwardian Tub Spout (U.3785)](https://www.fergusonhome.com/perrin-and-rowe-u-3785/s1790859)
