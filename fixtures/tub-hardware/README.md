@@ -55,3 +55,21 @@ Kohler Purist in Vibrant French Gold:
 Moen Weymouth in Brushed Gold:
 
 - [Moen Weymouth collection](https://www.fergusonhome.com/moen-weymouth-collection/c115953)
+
+Newport Brass Victoria in Satin Brass PVD:
+
+- [Thermostatic Rough-In (1-743)](https://www.faucet.com/newport-brass-1-743/p406999)
+- [Thermostatic Trim Victoria (3-1763TR/04)](https://www.faucet.com/newport-brass-3-1763tr/p382433)
+- [Multi-Function Shower Head (2144/04)](https://www.faucet.com/newport-brass-2144/p409254)
+- [Multi-Function Slide Bar Handshower (280G)](https://www.faucet.com/newport-brass-280g/p409332)
+- [Victoria Tub Spout (3-667/04)](https://www.faucet.com/newport-brass-3-667/p409063)
+
+Rohl Perrin & Rowe in Old English Style:
+
+- [Thermostatic Rough-In Valve (R1055BD)](https://www.faucet.com/rohl-r1055bd/p399244)
+- [Georgian Era Thermostatic Trim](https://www.faucet.com/rohl-u-tga45w1lsp/p399191)
+- [Multi-Function Wall Shower Head (U.500)](https://www.faucet.com/rohl-u-500/p398942)
+- [Holborn 6-Function Handshower (U.5810)](https://www.faucet.com/rohl-u-5810/p399012)
+- [24in Slide Bar (U.5540)](https://www.faucet.com/rohl-u-5540/p398973)
+- [Wall Outlet (U.5546)](https://www.faucet.com/rohl-u-5546/p398981)
+- [Edwardian Tub Spout (U.3785)](https://www.faucet.com/rohl-u-3785/p398955)
