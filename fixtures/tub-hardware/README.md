@@ -2,14 +2,23 @@
 
 [back](../README.md)
 
-Initial style directions (from the seed concepts we reviewed):
+**Table of Contents**
 
-- Delta Cassidy
-- Kohler Artifacts
-- Kohler Purist
-- Moen Weymouth
-
-Those references point us toward a traditional / transitional direction rather than modern.
+- [Tub Hardware Selection](#tub-hardware-selection)
+  - [Desires](#desires)
+  - [Implications for the plumbing/control setup](#implications-for-the-plumbingcontrol-setup)
+  - [Shortlist structure](#shortlist-structure)
+  - [Hardware selections](#hardware-selections)
+    - [Delta Cassidy in Champagne Bronze:](#delta-cassidy-in-champagne-bronze)
+    - [Kohler Artifacts in Vibrant French Gold:](#kohler-artifacts-in-vibrant-french-gold)
+    - [Kohler Purist in Vibrant French Gold:](#kohler-purist-in-vibrant-french-gold)
+    - [California Faucets in Satin Gold PVD:](#california-faucets-in-satin-gold-pvd)
+      - [Tub \& Shower](#tub--shower)
+      - [Drain and Overflow](#drain-and-overflow)
+    - [Newport Brass Victoria in Satin Gold PVD:](#newport-brass-victoria-in-satin-gold-pvd)
+      - [Tub \& Shower](#tub--shower-1)
+      - [Drain and Overflow](#drain-and-overflow-1)
+    - [Rohl Perrin \& Rowe in Old English Style:](#rohl-perrin--rowe-in-old-english-style)
 
 ## Desires
 
@@ -37,15 +46,15 @@ When we add candidates below, include:
 
 ## Hardware selections
 
-Delta Cassidy in Champagne Bronze:
+### Delta Cassidy in Champagne Bronze:
 
 - [Delta Cassidy 17T04](https://www.fergusonhome.com/delta-dss-cassidy-17t04/s1087955)
 
-Kohler Artifacts in Vibrant French Gold:
+### Kohler Artifacts in Vibrant French Gold:
 
 - [Kohler Artifacts collection](https://www.fergusonhome.com/kohler-artifacts/c114151)
 
-Kohler Purist in Vibrant French Gold:
+### Kohler Purist in Vibrant French Gold:
 
 - [Kohler K-22178](https://www.fergusonhome.com/kohler-k-22178/s1574508)
 - [Kohler K-14426](https://www.fergusonhome.com/search?term=K-14426)
@@ -56,15 +65,32 @@ Moen Weymouth in Brushed Gold:
 
 - [Moen Weymouth collection](https://www.fergusonhome.com/moen-weymouth-collection/c115953)
 
-Newport Brass Victoria in Satin Brass PVD:
+### California Faucets in Satin Gold PVD:
+
+#### Tub & Shower
+
+- [Venice Showerhead + multifunction handshower on hook + tub spout (LSG), 2.5 gpm showerhead (KT07-47.25-LSG)](https://www.qualitybath.com/california-faucets-kt07-47-showerhead-handshower-on-hook-tub-spout-product-342412.htm?sku=KT07-47.25-LSG)
+- [THT52D2-R — required StyleTherm rough valve for the KT07-47 kit family](https://www.qualitybath.com/california-faucets-tht52d2-r-1-2-thermostatic-roughcalgreen-compliant-product-223045.htm?sku=THT52D2-R)
+
+#### Drain and Overflow
+
+- [9226-T-LSG — Waste & overflow, toe-activated drain, all brass, and the trim + rough are fully finished.](https://www.calfaucets.com/bathroom/accessories-trim/tub-drain-systems/waste-and-overflow-completely-finished-with-toe-activated-drain-9226-t?utm_source=chatgpt.com)
+
+### Newport Brass Victoria in Satin Gold PVD:
+
+#### Tub & Shower
 
 - [Thermostatic Rough-In (1-743)](https://www.fergusonhome.com/newport-brass-1-743/s1206537)
-- [Thermostatic Trim Victoria (3-1763TR/04)](https://www.fergusonhome.com/newport-brass-3-1763tr/s1519691)
-- [Multi-Function Shower Head (2144/04)](https://www.fergusonhome.com/newport-brass-2144/s122244)
-- [Multi-Function Slide Bar Handshower (280E)](https://www.fergusonhome.com/newport-brass-280e/s147719)
-- [Victoria Tub Spout (3-667/04)](https://frankwebb.com/products/newport-brass-3-667-04-victoria-tub-spout-sc30054-1032405?variant=39858409668772)
+- [Thermostatic Trim Victoria (3-1763TR/24S)](https://www.fergusonhome.com/newport-brass-3-1763tr/s1519691)
+- [Multi-Function Shower Head (2157/24S)](https://www.fergusonhome.com/newport-brass-2157/s1656030)
+- [Multi-Function Handshower Set (280N/24S)](https://www.fergusonhome.com/newport-brass-280n/s147559)
+- [Victoria Tub Spout (3-667/24S)](https://frankwebb.com/products/newport-brass-3-667-04-victoria-tub-spout-sc30054-1032405?variant=39858409668772)
 
-Rohl Perrin & Rowe in Old English Style:
+#### Drain and Overflow
+
+- [255/24S — Brasstech Waste & Overflow where the faceplate & tub drain are brass, and other parts are ABS plastic](https://www.newportbrass.com/product/brasstech/polished-chrome/255/)
+
+### Rohl Perrin & Rowe in Old English Style:
 
 - [Thermostatic Rough-In Valve (R1055BD)](https://www.fergusonhome.com/rohl-r1055bd/s1508158)
 - [Georgian Era Thermostatic Trim](https://www.fergusonhome.com/perrin-and-rowe-u-5786x-to/s1790937)
