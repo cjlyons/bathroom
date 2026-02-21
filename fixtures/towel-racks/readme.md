@@ -112,14 +112,32 @@ Use the swivel hook or rail approach in the nook and add towel-warming comfort v
 
 **Heated towel-rail candidates (hybrid add-on, mounted on a wider wall — not the 6" lane):**
 
-- **Eskimo “Loop” heated towel rail** — ~200W class; designed to hold multiple towels; verify US/Canada voltage and electrical listing acceptance with electrician/inspector.  
-  Link: https://eskimoheat.com.au/products/loop-heated-towel-rail
-- **Eskimo “Gordon” heated towel rail** — ~200W class; marketed to hold up to 4 towels; powder-coated aluminum (not a satin-brass/LSG match, more “make it disappear” in white/black); verify US/Canada voltage and electrical listing acceptance.  
-  Link: https://eskimoheat.com.au/products/gordon-heated-towel-rail
+- **AUSRTALIA manufacturer options (wall-mounted, hardwired or convertible):**
+  - [**Eskimo “Loop” heated towel rail:**](https://eskimoheat.com.au/products/loop-heated-towel-rail) ~200W class; designed to hold multiple towels; verify US/Canada voltage and electrical listing acceptance with electrician/inspector.
+  - [**Eskimo “Gordon” heated towel rail:**](https://eskimoheat.com.au/products/gordon-heated-towel-rail) ~200W class; marketed to hold up to 4 towels; powder-coated aluminum (not a satin-brass/LSG match, more “make it disappear” in white/black); verify US/Canada voltage and electrical listing acceptance.
+- **US manufacturer options (wall-mounted, hardwired or convertible):**
+  - [**WarmlyYours:**](https://www.warmlyyours.com/en-US/towel-warmer) wall-mounted towel warmers; many models available in plug-in or hardwired variants
+  - [**Amba:**](https://ambaproducts.com/product/radiant-small/) many models ship as plug-in and can be hardwired with a conversion kit; also offers hardwire-only models
+  - [**Retail sanity-check (Home Depot):**](https://www.homedepot.com/b/Bath-Bathroom-Accessories-Bathroom-Hardware-Towel-Warmers/N-5yc1vZcfvj) — easy way to filter for “plug-in and hardwire” models and compare sizes/prices
 - **towel-rack radiator:** (a radiator designed with horizontal bars for draping towels).
   - A variation worth considering: replace the standard radiator.
   - **Pro:** This keeps the heating function while adding passive towel warming — no extra electrical run needed.
   - **Tradeoff:** the flat top of a standard radiator was planned as shelf space; a towel-rack radiator gives that up.
+
+- **Simple plug-in alternative (no wall space required):**
+  - **Towel-warming bucket** (e.g., Zadro-style 20L): warm towels on demand
+  - Does not act as a wall dryer.
+  - [Zadro towel warmer bucket](https://zadroinc.com/products/large-zadro-towel-warmer-bucket-20l-twb)
+
+**In-bath placement tradeoff (hardwired warmer):**
+
+- **Over the toilet**
+  - **Pros:** uses dead wall space; less visual competition with vanity/mirrors; often easiest routing; keeps warmer “utility” rather than focal.
+  - **Cons:** some dislike towels above toilet; must confirm clearance so towels don’t brush tank/lid/shelving; may crowd art/storage plans.
+
+- **Vanity wall segment without a mirror (preferred if workable)**
+  - **Pros:** best “spa” experience near grooming/drying zone; feels intentional in the vanity area; easy to pair with timer in planned vanity 4-gang banks.
+  - **Cons:** can compete visually with vanity; must avoid cabinet door/drawer swings and main traffic line; needs a clean wall segment.
 
 **Pros:** solves drying/storage with minimal build complexity; warm towels without tearing into finished work; lower cost; easier to change later.
 
