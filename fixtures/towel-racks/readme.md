@@ -67,27 +67,27 @@ Use both walls at the tub-head corner (the 6" lane wall and the perpendicular re
 
 Swivel hooks:
 
-| Product | Projection | Satin Brass? | Price | Status | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [HAH Heavy Duty Solid Brass Swivel Hook](https://www.houseofantiquehardware.com/Heavy-Duty-Solid-Brass-Swivel-Hook) | 4" extended | PVD only | $52–60 | Candidate | 3 swivel arms; fits lane wall; no true satin brass finish |
-| [Alno A8385-SB Swivel Robe Hook](https://www.myknobs.com/pdp/alna8385sn/alna8385sb-1/alno-hardware-swivel-robe-hook-in-satin-brass) | 3.375" extended | ✓ | $144 | Candidate | Best projection for lane wall; concealed screws; "Contemporary I" collection — may read slightly modern |
-| [HAH Ellis Solid-Brass Swivel Hook](https://www.houseofantiquehardware.com/ellis-solid-brass-coat-hook) | 4.19" extended | No (antique/polished brass only) | $12 | Candidate | Arts & Crafts style; single hook; reviewers flagged as lightweight — may not hold heavy wet towels well |
-| [Rejuvenation Valet Hook](https://www.rejuvenation.com) | 7.19" extended | ✓ | — | Partial — return wall only | Exceeds 6" lane wall clearance; viable for return wall positions (B1/B2) only |
-| Rejuvenation Retractable Hook | — | — | — | Ruled out | Doesn't suit the space |
-| Ginger Frame Pivoting Hook | — | — | — | Ruled out | No warm-tone finish options |
+| Product                                                                                                                             | Projection      | Satin Brass?                     | Price  | Status                     | Notes                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------- | ------ | -------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [HAH Heavy Duty Solid Brass Swivel Hook](https://www.houseofantiquehardware.com/Heavy-Duty-Solid-Brass-Swivel-Hook)                 | 4" extended     | PVD only                         | $52–60 | Candidate                  | 3 swivel arms; fits lane wall; no true satin brass finish                                               |
+| [Alno A8385-SB Swivel Robe Hook](https://www.myknobs.com/pdp/alna8385sn/alna8385sb-1/alno-hardware-swivel-robe-hook-in-satin-brass) | 3.375" extended | ✓                                | $144   | Candidate                  | Best projection for lane wall; concealed screws; "Contemporary I" collection — may read slightly modern |
+| [HAH Ellis Solid-Brass Swivel Hook](https://www.houseofantiquehardware.com/ellis-solid-brass-coat-hook)                             | 4.19" extended  | No (antique/polished brass only) | $12    | Candidate                  | Arts & Crafts style; single hook; reviewers flagged as lightweight — may not hold heavy wet towels well |
+| [Rejuvenation Valet Hook](https://www.rejuvenation.com)                                                                             | 7.19" extended  | ✓                                | —      | Partial — return wall only | Exceeds 6" lane wall clearance; viable for return wall positions (B1/B2) only                           |
+| Rejuvenation Retractable Hook                                                                                                       | —               | —                                | —      | Ruled out                  | Doesn't suit the space                                                                                  |
+| Ginger Frame Pivoting Hook                                                                                                          | —               | —                                | —      | Ruled out                  | No warm-tone finish options                                                                             |
 
 Static hooks (no swivel — fixed projection):
 
 > **Note on finish matching:** All Newport Brass options below use Satin Brass PVD — a close coordinate to LSG, not an exact match. The California Faucets options are the only true exact-match finish (LSG, same collection as the tub hardware).
 
-| Product | Projection | Satin Brass? | Price | Status | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Newport Brass Keaton 36-12](https://www.newportbrass.com/product/keaton/satin-brass-pvd/36-12/) | 2.35" (fixed) | ✓ PVD | $122 | Candidate | Single hook; solid brass; 1.75" backplate; plain cylinder profile; easily fits lane wall; no swivel — permanent projection |
-| [Newport Brass Keaton 36-13](https://www.newportbrass.com/product/keaton/satin-brass-pvd/36-13/) | 2.94" (fixed) | ✓ PVD | $212 | Candidate | Double hook (two positions, front-to-back) on one 1.75" backplate; 3.51" wide; plain cylinder profile; easily fits lane wall; no swivel — permanent projection |
-| [California Faucets Monterey 47-RH](https://californiafaucetsupply.com/?page=products&action=view&manufacturerID=127&productID=47_RH&sku=47_RH-PC) | TBD (fixed) | ✓ **Exact LSG** | $200+ | Candidate | Single hook; same Monterey/47 collection as tub hardware — true LSG color match; solid brass; projection TBD — confirm before committing to lane wall |
-| [California Faucets Monterey 47-DRH](https://californiafaucetsupply.com/?page=products&action=view&manufacturerID=127&productID=47_DRH&sku=47_DRH-PC) | TBD (fixed) | ✓ **Exact LSG** | $230+ | Candidate | Double hook; same Monterey/47 collection as tub hardware — true LSG color match; solid brass; projection TBD — confirm before committing to lane wall |
-| [Newport Brass Astor 890-1650](https://www.newportbrass.com/product/alveston/satin-brass-pvd/890-1650/) | 2.47" (fixed) | ✓ PVD | $97 | Candidate | Single hook; solid brass; 1.97" ringed/stepped backplate — much more classic profile than Keaton; easily fits lane wall; no swivel |
-| [Newport Brass Astor 890-1660](https://www.newportbrass.com/product/alveston/satin-brass-pvd/890-1660/) | 2.42" (fixed) | ✓ PVD | $193 | Candidate | Double hook (two hooks splayed side-by-side, not stacked); 2.56" ringed backplate; 2.81" wide; easily fits lane wall; no swivel |
+| Product                                                                                                                                               | Projection    | Satin Brass?    | Price | Status    | Notes                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- | ----- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Newport Brass Keaton 36-12](https://www.newportbrass.com/product/keaton/satin-brass-pvd/36-12/)                                                      | 2.35" (fixed) | ✓ PVD           | $122  | Candidate | Single hook; solid brass; 1.75" backplate; plain cylinder profile; easily fits lane wall; no swivel — permanent projection                                     |
+| [Newport Brass Keaton 36-13](https://www.newportbrass.com/product/keaton/satin-brass-pvd/36-13/)                                                      | 2.94" (fixed) | ✓ PVD           | $212  | Candidate | Double hook (two positions, front-to-back) on one 1.75" backplate; 3.51" wide; plain cylinder profile; easily fits lane wall; no swivel — permanent projection |
+| [California Faucets Monterey 47-RH](https://californiafaucetsupply.com/?page=products&action=view&manufacturerID=127&productID=47_RH&sku=47_RH-PC)    | TBD (fixed)   | ✓ **Exact LSG** | $200+ | Candidate | Single hook; same Monterey/47 collection as tub hardware — true LSG color match; solid brass; projection TBD — confirm before committing to lane wall          |
+| [California Faucets Monterey 47-DRH](https://californiafaucetsupply.com/?page=products&action=view&manufacturerID=127&productID=47_DRH&sku=47_DRH-PC) | TBD (fixed)   | ✓ **Exact LSG** | $230+ | Candidate | Double hook; same Monterey/47 collection as tub hardware — true LSG color match; solid brass; projection TBD — confirm before committing to lane wall          |
+| [Newport Brass Astor 890-1650](https://www.newportbrass.com/product/alveston/satin-brass-pvd/890-1650/)                                               | 2.47" (fixed) | ✓ PVD           | $97   | Candidate | Single hook; solid brass; 1.97" ringed/stepped backplate — much more classic profile than Keaton; easily fits lane wall; no swivel                             |
+| [Newport Brass Astor 890-1660](https://www.newportbrass.com/product/alveston/satin-brass-pvd/890-1660/)                                               | 2.42" (fixed) | ✓ PVD           | $193  | Candidate | Double hook (two hooks splayed side-by-side, not stacked); 2.56" ringed backplate; 2.81" wide; easily fits lane wall; no swivel                                |
 
 ### Vertical swivel-peg rail
 
@@ -110,9 +110,16 @@ A slim vertical rail with multiple independent swivel pegs/hooks that rotate out
 
 Use the swivel hook or rail approach in the nook and add towel-warming comfort via a plug-in warmer on a different wall or a countertop warming bucket.
 
-A variation worth considering: replace the standard radiator with a **towel-rack radiator** (a radiator designed with horizontal bars for draping towels). This keeps the heating function while adding passive towel warming — no extra electrical run needed.
+**Heated towel-rail candidates (hybrid add-on, mounted on a wider wall — not the 6" lane):**
 
-- **Tradeoff:** the flat top of a standard radiator was planned as shelf space; a towel-rack radiator gives that up.
+- **Eskimo “Loop” heated towel rail** — ~200W class; designed to hold multiple towels; verify US/Canada voltage and electrical listing acceptance with electrician/inspector.  
+  Link: https://eskimoheat.com.au/products/loop-heated-towel-rail
+- **Eskimo “Gordon” heated towel rail** — ~200W class; marketed to hold up to 4 towels; powder-coated aluminum (not a satin-brass/LSG match, more “make it disappear” in white/black); verify US/Canada voltage and electrical listing acceptance.  
+  Link: https://eskimoheat.com.au/products/gordon-heated-towel-rail
+- **towel-rack radiator:** (a radiator designed with horizontal bars for draping towels).
+  - A variation worth considering: replace the standard radiator.
+  - **Pro:** This keeps the heating function while adding passive towel warming — no extra electrical run needed.
+  - **Tradeoff:** the flat top of a standard radiator was planned as shelf space; a towel-rack radiator gives that up.
 
 **Pros:** solves drying/storage with minimal build complexity; warm towels without tearing into finished work; lower cost; easier to change later.
 
