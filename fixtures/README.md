@@ -8,5 +8,6 @@ This directory tracks fixture decisions and shortlists.
 
 Start here:
 
-1. [`tub`](./tub/README.md)
-2. [`tub-hardware`](./tub-hardware/README.md)
+1. [tub](./tub/README.md)
+2. [tub-hardware](./tub-hardware/README.md)
+3. [toilet](./toilet/README.md)

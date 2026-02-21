@@ -19,6 +19,7 @@
       - [Tub \& Shower](#tub--shower-1)
       - [Drain and Overflow](#drain-and-overflow-1)
     - [Rohl Perrin \& Rowe in Old English Style:](#rohl-perrin--rowe-in-old-english-style)
+  - [Final decision](#final-decision)
 
 ## Desires
 
@@ -99,3 +100,8 @@ Moen Weymouth in Brushed Gold:
 - [24in Slide Bar (U.5540)](https://www.fergusonhome.com/product/summary/1790917)
 - [Wall Outlet (U.5546)](https://www.fergusonhome.com/perrin-and-rowe-u-5546/s1790919)
 - [Edwardian Tub Spout (U.3785)](https://www.fergusonhome.com/perrin-and-rowe-u-3785/s1790859)
+
+## Final decision
+
+- Shower Bundle: [California Faucets Monterey Thermostatic Shower System with Shower Head, Hand Shower, Shower Arm, Hose, and Valve Trim in Lifetime Satin Gold (LSG)](https://www.qualitybath.com/california-faucets-kt07-47-showerhead-handshower-on-hook-tub-spout-product-342412.htm?sku=KT07-47.25-LSG&subprod%5B0%5D=223045)
+- Sink Faucet: [California Faucets Miramar 1.2 GPM Widespread Bathroom Faucet with Double Handles from the Monterrey collection in LSG](https://www.fergusonhome.com/california-faucets-4802x/s1369504)
