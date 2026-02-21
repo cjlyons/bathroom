@@ -63,15 +63,48 @@ Use both walls at the tub-head corner (the 6" lane wall and the perpendicular re
 
 **Cons:** finish match will be "coordinate," not exact LSG; cheap swivel hooks feel flimsy — choose solid brass with concealed mounting.
 
+**Hook candidates evaluated:**
+
+Swivel hooks:
+
+| Product | Projection | Satin Brass? | Price | Status | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [HAH Heavy Duty Solid Brass Swivel Hook](https://www.houseofantiquehardware.com/Heavy-Duty-Solid-Brass-Swivel-Hook) | 4" extended | PVD only | $52–60 | Candidate | 3 swivel arms; fits lane wall; no true satin brass finish |
+| [Alno A8385-SB Swivel Robe Hook](https://www.myknobs.com/pdp/alna8385sn/alna8385sb-1/alno-hardware-swivel-robe-hook-in-satin-brass) | 3.375" extended | ✓ | $144 | Candidate | Best projection for lane wall; concealed screws; "Contemporary I" collection — may read slightly modern |
+| [HAH Ellis Solid-Brass Swivel Hook](https://www.houseofantiquehardware.com/ellis-solid-brass-coat-hook) | 4.19" extended | No (antique/polished brass only) | $12 | Candidate | Arts & Crafts style; single hook; reviewers flagged as lightweight — may not hold heavy wet towels well |
+| [Rejuvenation Valet Hook](https://www.rejuvenation.com) | 7.19" extended | ✓ | — | Partial — return wall only | Exceeds 6" lane wall clearance; viable for return wall positions (B1/B2) only |
+| Rejuvenation Retractable Hook | — | — | — | Ruled out | Doesn't suit the space |
+| Ginger Frame Pivoting Hook | — | — | — | Ruled out | No warm-tone finish options |
+
+Static hooks (no swivel — fixed projection):
+
+> **Note on finish matching:** All Newport Brass options below use Satin Brass PVD — a close coordinate to LSG, not an exact match. The California Faucets options are the only true exact-match finish (LSG, same collection as the tub hardware).
+
+| Product | Projection | Satin Brass? | Price | Status | Notes |
+| --- | --- | --- | --- | --- | --- |
+| [Newport Brass Keaton 36-12](https://www.newportbrass.com/product/keaton/satin-brass-pvd/36-12/) | 2.35" (fixed) | ✓ PVD | $122 | Candidate | Single hook; solid brass; 1.75" backplate; plain cylinder profile; easily fits lane wall; no swivel — permanent projection |
+| [Newport Brass Keaton 36-13](https://www.newportbrass.com/product/keaton/satin-brass-pvd/36-13/) | 2.94" (fixed) | ✓ PVD | $212 | Candidate | Double hook (two positions, front-to-back) on one 1.75" backplate; 3.51" wide; plain cylinder profile; easily fits lane wall; no swivel — permanent projection |
+| [California Faucets Monterey 47-RH](https://californiafaucetsupply.com/?page=products&action=view&manufacturerID=127&productID=47_RH&sku=47_RH-PC) | TBD (fixed) | ✓ **Exact LSG** | $200+ | Candidate | Single hook; same Monterey/47 collection as tub hardware — true LSG color match; solid brass; projection TBD — confirm before committing to lane wall |
+| [California Faucets Monterey 47-DRH](https://californiafaucetsupply.com/?page=products&action=view&manufacturerID=127&productID=47_DRH&sku=47_DRH-PC) | TBD (fixed) | ✓ **Exact LSG** | $230+ | Candidate | Double hook; same Monterey/47 collection as tub hardware — true LSG color match; solid brass; projection TBD — confirm before committing to lane wall |
+| [Newport Brass Astor 890-1650](https://www.newportbrass.com/product/alveston/satin-brass-pvd/890-1650/) | 2.47" (fixed) | ✓ PVD | $97 | Candidate | Single hook; solid brass; 1.97" ringed/stepped backplate — much more classic profile than Keaton; easily fits lane wall; no swivel |
+| [Newport Brass Astor 890-1660](https://www.newportbrass.com/product/alveston/satin-brass-pvd/890-1660/) | 2.42" (fixed) | ✓ PVD | $193 | Candidate | Double hook (two hooks splayed side-by-side, not stacked); 2.56" ringed backplate; 2.81" wide; easily fits lane wall; no swivel |
+
 ### Vertical swivel-peg rail
 
 A slim vertical rail with multiple independent swivel pegs/hooks that rotate out and fold back flat.
 
-**Pros:** one clean element; looks designed; holds 3+ towels; often folds relatively flat.
+**Pros:** one clean element; holds 3+ towels; projection/size concept is right for the 6" lane.
 
 **Cons:** harder to find a truly classic/1917 look — many read more contemporary; finish options vary; some multi-hook rails feel commercial.
 
-**Good use case:** simplest install (one object, one set of screw locations) and a slightly more modern line is acceptable.
+**What we found:** Only cheap/generic brands available (e.g., [GXFC on Amazon](https://www.amazon.com/Vertical-Mounted-Decorative-Entryway-GXFC/dp/B081FBVWQT), also at Walmart). Issues with that category:
+
+- **Not solid brass** — specs say "Metal" with a "Gold" finish, meaning coated base metal, not bath-quality brass
+- **Finish match risk** — "Gold" reads brighter/yellower than LSG; will likely look cheap next to the tub hardware
+- **Durability unknown** — generic gold-coated metal in a humid bathroom risks scratches, spotting, and finish wear
+- **Mechanism risk** — swivel pegs often use set screws/collars that wobble, loosen, or look utilitarian over time
+
+**Status: ruled out** — no quality option found in this category. Would revisit only if a solid brass version in a warm finish surfaces.
 
 ### Hybrid: swivel hooks + warming elsewhere
 

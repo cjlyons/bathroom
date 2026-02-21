@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:assets.rjimgs.com)",
+      "WebFetch(domain:www.houseofantiquehardware.com)",
+      "WebFetch(domain:www.myknobs.com)",
+      "WebFetch(domain:www.newportbrass.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:californiafaucetsupply.com)",
+      "WebFetch(domain:www.calfaucets.com)"
+    ]
+  }
+}
