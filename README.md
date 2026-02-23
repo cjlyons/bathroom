@@ -13,3 +13,4 @@ The first decisions we need are (needed for plumbing rough-in):
 
 - [`fixtures`](./fixtures/README.md)
 - [`tile`](./tile/readme.md)
+- [`vanity`](./vanity/readme.md)
