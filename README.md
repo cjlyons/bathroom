@@ -2,6 +2,8 @@
 
 This folder is for sharing bathroom remodel ideas, reference materials, and shortlists we can review together.
 
+[Current thoughts on the overall design and layout](./layout.md)
+
 ## Where to start
 
 The first decisions we need are (needed for plumbing rough-in):
